@@ -1,0 +1,3 @@
+secrets.env
+.spotipy_cache
+*.csv
